@@ -1,0 +1,4 @@
+com\badao\hello\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider$1.class
+com\badao\hello\spring\cloud\zuul\filter\LoginFilter.class
+com\badao\hello\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider.class
+com\badao\hello\spring\cloud\zuul\ZuulApplication.class
